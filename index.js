@@ -6,3 +6,7 @@ function theBeatlesPlay(musician,instrument) {
   //console.log(sentence)
   return sentence
 }
+
+function johnLennonFacts(facts) {
+  
+}
